@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "build",
+    "sourceMap": true,
+    "target": "es2020",
+    "noUnusedLocals": true,
+    "declaration": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "experimentalDecorators": true,
+    "useDefineForClassFields": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "module": "ESNext",
+    "importsNotUsedAsValues": "error",
+    "noEmit": true,
+    "assumeChangesOnlyAffectDirectDependencies": true,
+  },
+}
